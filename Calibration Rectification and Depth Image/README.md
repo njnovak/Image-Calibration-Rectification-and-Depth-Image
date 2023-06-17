@@ -1,4 +1,4 @@
-THis project focuses on stereovision. To run the output, you will need to have numpy, matplotlib, and opencv installed on your system.
+This project focuses on stereovision. To run the output, you will need to have numpy, matplotlib, and opencv installed on your system.
 Make sure the artroom, cehss, and ladder folders all contain im0.png and im1.png.
 
 To run, simply run the [main.py] file. Via command line, this would look like `$python3 main.py`
